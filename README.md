@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I am Kaldev
+# A high school student. 
+
+I code with Nextjs. Currently learning Backend. 
+
+
 
 <!--
 **miqkaldev/miqkaldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
